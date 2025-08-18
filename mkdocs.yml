@@ -45,10 +45,10 @@ extra_javascript:
 plugins:
   - search
   - macros
-  # - with-pdf:
-  #     cover_title: LABXXX-1234
-  #     cover_subtitle: My famous WebexOne Lab
-  #     cover_logo: template_assets/Wx1_25_PDF_image.jpg
+  - with-pdf:
+      cover_title: LABCLS-1402
+      cover_subtitle: Troubleshoot RoomOS video devices on Control Hub with Remote Access
+      cover_logo: template_assets/Wx1_25_PDF_image.jpg
   - glightbox:
       touchNavigation: true
       loop: false
@@ -86,18 +86,14 @@ markdown_extensions:
           format: !!python/name:pymdownx.superfences.fence_code_format
 nav:
   - Home: index.md
-  - Lab:
+  - Getting Started:
       - Overview: overview.md
-      - Lab 1 - Getting Started: lab1_getting_started.md
-      - Conclusion: conclusion.md
-  - Topologies: topologies.md
-  - How to use this guide:
-      - Setting up and using the tool:
-        - Initial Setup: howToUse/initialSetup.md
-        - Using the tool after the initial setup: howToUse/postInitial.md
-        - Publishing your changes: howToUse/syncChanges.md
-      - Styling and Advanced Features:
-        - Markdown and Other References: howToUse/references.md
-        - Custom Features: howToUse/customFeatures.md
-        - Custom Admonitions: howToUse/admonition.md
+  - Guides:
+      - Guides: guides.md
+  - Scenarios:
+      - Hello Remote Access: scenarios/helloRemoteAccess.md
+      - Scenario 1 - Language: scenarios/languageScenario.md
+      - Scenario 2 - Camera: scenarios/cameraScenario.md
+      - Scenario 3 - Customizations: scenarios/customizationsScenario.md
+      - Scenario 4 - Call: scenarios/callScenario.md
  
