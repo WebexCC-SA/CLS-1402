@@ -14,7 +14,7 @@ It is perfectly possible to fix this using our xAPI over Control Hub or the Loca
 
 > I am not able to use my device since I do not know the language and the buttons are in the opposite side of where they used to. Could you please come to this meeting room to fix it? Can you set the Language to English?
 Here is a screenshot of the device:
-![Language Screenshot](./../assets/LanguageScreenshot.png){ width="700" }
+![Language Screenshot](./../assets/LanguageScreenshot.jpg){ width="700" }
 
 ## Your task
 
