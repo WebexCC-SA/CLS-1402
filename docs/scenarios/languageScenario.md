@@ -14,7 +14,7 @@ It is perfectly possible to fix this using our xAPI over Control Hub or the Loca
 
 > I am not able to use my device since I do not know the language and the buttons are in the opposite side of where they used to. Could you please come to this meeting room to fix it? Can you set the Language to English?
 Here is a screenshot of the device:
-<img src="/../assets/LanguageScreenshot.jpeg" width="700"/>
+![Language Screenshot](./../assets/LanguageScreenshot.png){ width="700" }
 
 ## Your task
 
@@ -22,16 +22,16 @@ In this scenario what you will need to do is start a remote access session, acce
 
 - To start a Remote Access session follow the instructions from [Hello Remote Access](./helloRemoteAccess.md).
 
-- After the session is stablish you will have access to the devices as if you are in the room. You will see that the language is not set to English, and the buttons are in a different position. Setting the language to english will also change the location of the buttons to the default position. Go to settings by clicking the top left settings icon <img src="/../assets/Controlpanel_normal.png"  width="30" style="vertical-align: text-bottom;"/>, or on the left side of the screen perform a swipe right movment. 
+- After the session is stablish you will have access to the devices as if you are in the room. You will see that the language is not set to English, and the buttons are in a different position. Setting the language to english will also change the location of the buttons to the default position. Go to settings by clicking the top left settings icon ![Control Panel Icon](./../assets/Controlpanel_normal.png){ width="30" }, or on the left side of the screen perform a swipe right movment. 
 
-- On the bottom of the screen on the side panel click settings, the button with the cog icon <img src="/../assets/Cogwheel_Black.png"  width="30" style="vertical-align: text-bottom;"/>, from here click on the button with the icon <img src="/../assets/Globe.png"  width="30" style="vertical-align: text-bottom;"/>that represent languages. From here select English. After that the device will switch to English, and you can verify that visually and assure the user the issue is fixed. No need for a trip to the meeting room in question.
+- On the bottom of the screen on the side panel click settings, the button with the cog icon ![Settings Icon](./../assets/Cogwheel_Black.png){ width="30" }, from here click on the button with the icon ![Language Icon](./../assets/Globe.png){ width="30" } that represent languages. From here select English. After that the device will switch to English, and you can verify that visually and assure the user the issue is fixed. No need for a trip to the meeting room in question.
 
 - You can now be sure that you have solved an issue for your customer with minimal effort and no need to be present in the room.
 
 
 
 ??? Note "Show me how to change the Language"
-    ![alt text](/../assets/HowToChangeLanguage.gif)
+    ![alt text](./../assets/HowToChangeLanguage.gif)
 
 
 Lets move on to the next scenario [Scenario 2 - Camera](./cameraScenario.md).

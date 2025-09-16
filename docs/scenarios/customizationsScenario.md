@@ -11,7 +11,8 @@ In this scenario you are an integrator and you have deployed a customization wit
 As an integrator you wanna go to the room and test your customizations to be sure it works and is ready for customers to use.
 
 By clicking this button on the home screen (you might need to swipe to the next page of home screen on the device to find it):
-<img src="/../assets/HalfwakeButton.png" width="500"/>
+![HalkwakeButton](./../assets/HalfwakeButton.png){ width="500" }
+
 
 Your goal is to verify that after clicking on the Halfwake button the user will see the Signage web page opening on the device.
 
@@ -23,7 +24,7 @@ In this scenario you want to start a remote access session and verify that your 
 Since in this scenario you are an expert integrator you know exactly what to do to fix this issue. From the devices overview page you will need to go to the macros tab inside Control Hub, and activate the Launch Halfwake macro to get the correct behavior.
 
 Here is the Macros page in CH where you should activate the LaunchHalfwake macro and hit save:
-<img src="/../assets/ActivateMacrosInCH.png" width="800"/>
+![ActivateMacrosInCHImage](./../assets/ActivateMacrosInCH.png){ width="800" }
 
 Once you have done that you will be able to verify with a remote access that the custom button works as expected. You should click on it and verify that the webpage opens on the device to be sure your integration is working.
 
