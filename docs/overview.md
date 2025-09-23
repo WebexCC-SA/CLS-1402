@@ -1,6 +1,11 @@
 # Overview
 
-This lab will give you an introduction to Remote Access and other related features that will help you leverage RoomOS troubleshooting and support capabilities for a seamless experience aimed at managing devices in distributed and scaled deployments.
+This lab introduces Remote Access and related features to help you troubleshoot and support RoomOS devices efficiently. You'll learn how to manage devices across distributed and scaled deployments for a seamless support experience.
+
+This course is designed for Cisco partners, Integrators, and administrators working with RoomOS and MTR video devices.
+
+Before we dive in, here are a few important notes.
+
 ## Disclaimer
 
 Although the lab design and configuration examples could be used as a reference, for design related questions please contact your representative at Cisco, or a Cisco partner.
@@ -25,7 +30,7 @@ In this course we will learn how to:
 
 ## Control Hub Access
 
-In this course we will user Control Hub to remotely access devices.
+In this course we will use Control Hub to remotely access devices.
 
 To log into Control Hub navigate to [Control Hub](https://admin.webex.com) and use the email and password designated for you provided by the instructor.
 
@@ -52,6 +57,6 @@ Here is a list of scenarios we will go through on this lab:
 - #### [Scenario 4 - Call](./scenarios/callScenario.md)
 - #### [Scenario 5 - MTR onboarding](./scenarios/MTROnBoardingFromCH.md)
 
-## Lets get started
+## Let’s get started
 
-If you are ready lets start at [Hello Remote Access](./scenarios/helloRemoteAccess.md).
+If you are ready let's begin with [Hello Remote Access](./scenarios/helloRemoteAccess.md).
