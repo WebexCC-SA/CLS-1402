@@ -96,4 +96,5 @@ nav:
       - Scenario 2 - Camera: scenarios/cameraScenario.md
       - Scenario 3 - Customizations: scenarios/customizationsScenario.md
       - Scenario 4 - Call: scenarios/callScenario.md
+      - Scenario 5 - MTR onboarding: scenarios/MTROnBoardingFromCH.md
  

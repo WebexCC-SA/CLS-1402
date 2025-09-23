@@ -4,7 +4,7 @@ Lets warm up with a simple scenario.
 
 ## Problem
 
-In this scenario the end user is reporting that they are not able to understand the UI at all as its in a unfamiliar language to the user and the buttons seem to be in the opposite side, not wherethey are expected to be. In this case the language is an RTL language that was previously set due to a visit from foreign customers.
+In this scenario the end user is reporting that they are not able to understand the UI at all as its in a unfamiliar language to the user and the buttons seem to be in the opposite side, not where they are expected to be. In this case the language is an RTL language that was previously set due to a visit from foreign customers.
 
 As an admin it might be hard to explain to the user how to change the language in the UI on RTL for an unexperienced user. You will fix it using a remote access session as a warm up exercise.
 
