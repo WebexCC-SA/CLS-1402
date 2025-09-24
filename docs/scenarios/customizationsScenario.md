@@ -13,6 +13,8 @@ As an integrator you wanna go to the room and test your customizations to be sur
 By clicking this button on the home screen (you might need to swipe to the next page of home screen on the device to find it):
 ![HalkwakeButton](./../assets/HalfwakeButton.png){ width="500" }
 
+!!! important "Before you start!"
+    You will verify that the button Halfwake is not working.
 
 Your goal is to verify that after clicking on the Halfwake button the user will see the Signage web page opening on the device.
 
@@ -21,9 +23,9 @@ Your goal is to verify that after clicking on the Halfwake button the user will 
 
 In this scenario you want to start a remote access session and verify that your integration is working. You will see that its in fact not working exactly as expected. You just caught and error before reaching the end user! Well Done!
 
-Since in this scenario you are an expert integrator you know exactly what to do to fix this issue. From the devices overview page you will need to go to the macros tab inside Control Hub, and activate the Launch Halfwake macro to get the correct behavior.
+Since in this scenario you are an expert integrator you know exactly what to do to fix this issue. From the device's overview page you will need to go to the macros tab inside Control Hub, and activate the Launch Halfwake macro to get the correct behavior.
 
-Here is the Macros page in CH where you should activate the LaunchHalfwake macro and hit save:
+Here is the Macros page in Control Hub where you should activate the LaunchHalfwake macro and hit save:
 ![ActivateMacrosInCHImage](./../assets/ActivateMacrosInCH.png){ width="800" }
 
 Once you have done that you will be able to verify with a remote access that the custom button works as expected. You should click on it and verify that the webpage opens on the device to be sure your integration is working.
@@ -31,6 +33,6 @@ Once you have done that you will be able to verify with a remote access that the
 If you are familiar with the UI extensions and macro engine you can play with the code a bit and test the behavior with remote access. 
 You can also install macros from the public macro repository available here: https://roomos.cisco.com/macros (please check the disclaimer section before using any macro from the public repository on you deployed devices).
 
-Lets move over to [Scenario 4 - Customizations](./callScenario.md).
+Lets move over to [Scenario 4 - Call](./callScenario.md).
 
 

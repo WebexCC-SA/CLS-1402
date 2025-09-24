@@ -1,6 +1,6 @@
 # Scenario 5 - MTR onboarding
 
-In this scenario you will be an admin that needs to get the MTR code that shows on the device to be able to finish the MTR onboarding process. The device still needs to be registered to control hub so we can start a remote access session. Your goal is to see the MTR code on remote access session, we will not go further with the MTR registration. Once you reach this screen you are done with this scenario:
+In this scenario you will be an admin that needs to get the Microsoft Teams Room (MTR) code that shows on the device to be able to finish the MTR onboarding process. The device still needs to be registered to control hub so we can start a remote access session. Your goal is to see the MTR code on remote access session, we will not go further with the MTR registration. Once you reach this screen you are done with this scenario:
 
 ![MTR Code](./../assets/MTRCode.png){ width="800" }
 
@@ -23,6 +23,8 @@ An run the following xCommand to factory reset the device:
 xCommand SystemUnit FactoryReset Confirm: yes
 ```
 
+This process might take a few minutes.
+
 ### 2 - Get an activation code from Control Hub 
 
 In Control Hub from the Devices Page click Add Device -> Shared Usage -> Next -> New Workspace. Here you can give a name for the workspace that you will use to find the device later. Click Next -> Cisco Room and Desk Devices -> Next (there is no need to change anything). Click on Add Device to get the activation code. That is the code you will use on the device.
@@ -30,6 +32,7 @@ In Control Hub from the Devices Page click Add Device -> Shared Usage -> Next ->
 ??? Note "Show me how to get the activation code in CH"
     ![alt text](./../assets/GetActivationCodeInCH.gif)
 
+We will use the activation code soon on the device, so make sure to save it or have it available to you during step 3.
 
 ### 3 - Add the activation code to the device during the MTR onboarding process.
 
@@ -47,6 +50,6 @@ Now that you have the activation code you can input that on the device manually.
 - You should be able to see the MTR code on screen. From this point on as an admin you should be able to finish the registration process on the microsoft login webpage but we will not cover that on this course. 
 
 
-For a full guide on how to register MTR devices check the documentation on [MTROnBoarding](https://roomos.cisco.com/doc/MTR/MTROnBoarding#control-hub-registration-after-the-initial-setup). The documentation also describes the scenario of devices already registered to Control Hub being registered to MTR. 
+For a full guide on how to register MTR devices check the documentation on [MTR OnBoarding](https://roomos.cisco.com/doc/MTR/MTROnBoarding#control-hub-registration-after-the-initial-setup). The documentation also describes the scenario of devices already registered to Control Hub being registered to MTR. 
 
 

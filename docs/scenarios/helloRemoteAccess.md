@@ -19,7 +19,7 @@ Here you can also have an overview of the capabilities of the feature and be rem
 
 ![Start Remote Access Session Admin View](./../assets/StartRemoteAccessSession.png){ width="500" }
 
-Once you click "Start the session" the device will open a popup message allong with a sound cue letting any user present know the a remote access session is about to start. After 20 seconds the session will start and you will have control over the device from Control Hub.
+Once you click "Start the session" the device will open a popup message along with a sound cue letting any user present know the a remote access session is about to start. After 20 seconds the session will start and you will have control over the device from Control Hub.
 
 If you are able to see the device interface on control hub you are ready for the first scenario!
 Lets go to [Scenario 1 - Language](./languageScenario.md).
