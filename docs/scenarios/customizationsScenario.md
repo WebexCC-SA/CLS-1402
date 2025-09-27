@@ -28,10 +28,11 @@ Since in this scenario you are an expert integrator you know exactly what to do 
 Here is the Macros page in Control Hub where you should activate the LaunchHalfwake macro and hit save:
 ![ActivateMacrosInCHImage](./../assets/ActivateMacrosInCH.png){ width="800" }
 
-Once you have done that you will be able to verify with a remote access that the custom button works as expected. You should click on it and verify that the webpage opens on the device to be sure your integration is working.
+Once you have done that you will be able to verify with a remote access that the custom button works as expected. You should click on it and verify that Halfwake or a webpage opens on the device to be sure your integration is working.
 
 If you are familiar with the UI extensions and macro engine you can play with the code a bit and test the behavior with remote access. 
-You can also install macros from the public macro repository available here: https://roomos.cisco.com/macros (please check the disclaimer section before using any macro from the public repository on you deployed devices).
+You can also install macros from the public macro repository available here: https://roomos.cisco.com/macros.
+If you create a user in Local Call Controll you can install macros from the public repository (please check the disclaimer section before using any macro from the public repository on you deployed devices).
 
 Lets move over to [Scenario 4 - Call](./callScenario.md).
 
