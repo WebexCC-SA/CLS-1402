@@ -23,11 +23,11 @@ In case you want to activate it directly on a device using the xAPI the public x
 
 Its important to note that the Local Device Controls, also known as the device's Web Interface can only be accessed from the same network as the device.
 
-To access the local device controls first you have to navigate to the device page in Control Hub and find it on the devices tab. The devices name is on the top left corner of the Decides home screen. Once you are in the devices page you can click on Launch on the Local Device Controls within the Support card as seen in the image below:
+To access the local device controls first you have to navigate to the device's overview page in Control Hub and find your device on the devices tab. To find out the name of the device in front of you check the top left corner of the device home screen. Once you are in the devices page you can click on Launch on the Local Device Controls within the Support card as seen in the image below:
 
 ![Local Device Controls](./assets/SupportLocalDeviceControlsBlurred.png){ width="500" }
 
-Press connect with hostname and you will have access to the Local Device Controls of the device
+Press "Connect with Hostname" or "Proceed" and you will have access to the Local Device Controls hosted of the device.
 
 ![Cross Launch Device Controls](./assets/CrossLaunch.png){ width="500" }
 
@@ -36,20 +36,20 @@ Press connect with hostname and you will have access to the Local Device Control
 
 You will land on the home page of Local Device Controls of the device as seen in the image bellow:
 
-Having access to this page opens up a series of options that will be usefull for us in this lab. Such as:
+Having access to this page opens up a series of options that will be useful for us in this lab. Such as:
 
+- On the home screen you will find the Developer API tab on the left where you can execute xCommand and xConfiguration directly on the device. This can be useful in case you want to control a call with xCommands for instance.
+- You also have the macro editor, where you can create your own macros in combination with UI Extensions. This will be useful for us in the integrator scenario where we will have to visit this page to fix our customizations.
+- Call tab. This will be useful in the call scenario where we will have started a call from Remote Access. Remote Access is not supported during a call. The remote access session will end and you will be able to control the call from this tab on the Local Device Controls.
 - Remote Access from the Local Device Controls. You can give it a quick try! After that end the session and navigate back to the home screen.
+
 ??? Note "Configuration NetworkServices Websocket: FollowHTTPService"
     Using remote access from the Local Device Controls requires that the configuration NetworkServices Websocket is set to FollowHTTPService.
-- One the home screen you will find the Developer API where you can execute xCommand and xConfiguration directly on the device. This can be useful in case you want to control a call with xcommands for instance.
-- Macro Editor, where you can create your own macros in combination with UI Extensions. This will be useful for us in the integrator scenario where we will have to visit this page to fix our customizations.
-- Call tab. This will be useful in the call scenario where we will have started a call from Remote Access. Remote Access is not supported during a call. The remote access session will end and you will be able to control the call from this tab on the Local Device Controls.
-
 
 <a name="xapi-commands-on-CH"></a>
 ## Using xAPI commands on Control Hub
 
-- To run an xAPI command on Control Hub log in to Control Hub follow the instructions from [Logging into Control Hub](../guides.md). After that find your device and click on the device to reach the device's overview page. Here you you will find an _Action_ button with the option of _Run XCommand_. From there you can run commands from [RoomOS xAPI page](https://roomos.cisco.com/xapi) directly on the device.
+- To run an xAPI command on Control Hub log in to Control Hub follow the instructions from [Logging into Control Hub](../guides.md). After that find your device and click on the device to reach the device's overview page. Here you will find an _Action_ button with the option of _Run XCommand_. From there you can run commands from [RoomOS xAPI page](https://roomos.cisco.com/xapi) directly on the device.
 
 More at [RoomOS xAPI page](https://roomos.cisco.com/xapi)
 

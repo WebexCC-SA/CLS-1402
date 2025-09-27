@@ -27,7 +27,7 @@ This process might take a few minutes.
 
 ### 2 - Get an activation code from Control Hub 
 
-In Control Hub from the Devices Page click Add Device -> Shared Usage -> Next -> New Workspace. Here you can give a name for the workspace that you will use to find the device later. Click Next -> Cisco Room and Desk Devices -> Next (there is no need to change anything). Click on Add Device to get the activation code. That is the code you will use on the device.
+In Control Hub from the Devices page click Add Device -> Shared Usage -> Next -> New Workspace. Here you can give a name for the workspace that you will use to find the device later. Click Next -> Cisco Room and Desk Devices -> Next (there is no need to change anything). Click on Add Device to get the activation code. That is the code you will use on the device.
 
 ??? Note "Show me how to get the activation code in CH"
     ![alt text](./../assets/GetActivationCodeInCH.gif)
