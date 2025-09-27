@@ -23,7 +23,7 @@ In case you want to activate it directly on a device using the xAPI the public x
 
 Its important to note that the Local Device Controls, also known as the device's Web Interface can only be accessed from the same network as the device.
 
-To access the local device controls first you have to navigate to the device's overview page in Control Hub and find your device on the devices tab. To find out the name of the device in front of you check the top left corner of the device home screen. Once you are in the devices page you can click on Launch on the Local Device Controls within the Support card as seen in the image below:
+To access the local device controls first you have to navigate to the device's overview page in Control Hub and find your device on the devices tab. To find out the name of the device in front of you check the top left corner of the device home screen. Once you are in the device's page you can click on Launch on the Local Device Controls within the Support card as seen in the image below:
 
 ![Local Device Controls](./assets/SupportLocalDeviceControlsBlurred.png){ width="500" }
 
@@ -58,7 +58,7 @@ More at [RoomOS xAPI page](https://roomos.cisco.com/xapi)
 
 - To use Local Device Controls you need to be on the same network as the device.
 
-- To log in to the Local Device Controls follow the instructions from [Access Local Device Controls from Control Hub](../guides.md). If you have a local user registered on the Local Device Controls you can also log in to Local Device Controls with that user by navigating to the devices ip address.
+- To log in to the Local Device Controls follow the instructions from [Access Local Device Controls from Control Hub](../guides.md). If you have a local user registered on the Local Device Controls you can also log in to Local Device Controls with that user by navigating to the device's ip address.
 
 - Go to Developer API on the home screen of Local Device Controls and run the xCommands.
 
