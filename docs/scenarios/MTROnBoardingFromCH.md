@@ -54,9 +54,12 @@ For a full guide on how to register MTR devices check the documentation on [MTR 
 
 
 
-If you are done with this exercise, well done! You have finished the training! The instructor will soon wrap up the course.
+If you are done with this exercise, well done! 
+
+??? Note "You have finished the training! The instructor will soon wrap up the course."
 
 If you finished early and want an extra challenge here are your extra tasks:
+
 - Factory reset your device.
 - Create an activation code in CH.
 - Register the device to Control Hub as a RoomOS device.
