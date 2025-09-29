@@ -1,5 +1,8 @@
 # Scenario 5 - MTR onboarding
 
+!!! important "Not a a hands on scenario"
+    We will not go over this scenario on the devices in our lab. The devices here are Cisco Desks and do not support MTR. We will go over this scenario together.
+
 In this scenario you will be an admin that needs to get the Microsoft Teams Room (MTR) code that shows on the device to be able to finish the MTR onboarding process. The device still needs to be registered to control hub so we can start a remote access session. Your goal is to see the MTR code on remote access session, we will not go further with the MTR registration. Once you reach this screen you are done with this scenario:
 
 ![MTR Code](./../assets/MTRCode.png){ width="800" }
@@ -36,35 +39,21 @@ We will use the activation code soon on the device, so make sure to save it or h
 
 ### 3 - Add the activation code to the device during the MTR onboarding process.
 
-Now that you have the activation code you can input that on the device manually. After the factory rested the device will be on the welcome screen. From here choose all the default options until you see a screen with "Cisco RoomOS Experience" and "Microsoft Teams Experience". Choose Microsoft, then add the activation code. Press "Continue" and then begin installation. Will process will take several minutes. You can move on to the next 
+Now that you have the activation code you can input that on the device manually. After the factory reset the device will be on the welcome screen. From here choose all the default options until you see a screen with "Cisco RoomOS Experience" and "Microsoft Teams Experience". Choose Microsoft, then add the activation code. Press "Continue" and then begin installation. This process will take several minutes.
 
 ??? Note "Show me how to register device and start MTR onboarding process"
     ![alt text](./../assets/MTROnboardingViaControlHub.gif)
 
 ### 4 - Start a Remote Access Session
-- Go to Control Hub and find the device you registered in step 2.
+- Go to Control Hub and find the device you just registered with the workspace you created in step 2.
 - Now you are ready to start a remote access session.
 
 ### 5 - Verify what is the MTR Code on screen
-- If step 3 is still not over, the MTR instalation is still in progress. You might need to wait a few more minutes.
+- If step 3 is still not over, the MTR installation is still in progress. You might need to wait a few more minutes.
 - You should be able to see the MTR code on screen. From this point on as an admin you should be able to finish the registration process on the microsoft login webpage but we will not cover that on this course. 
 
 
 For a full guide on how to register MTR devices check the documentation on [MTR OnBoarding](https://roomos.cisco.com/doc/MTR/MTROnBoarding#control-hub-registration-after-the-initial-setup). The documentation also describes the scenario of devices already registered to Control Hub being registered to MTR. 
 
 
-
-If you are done with this exercise, well done! 
-
-??? Note "You have finished the training! The instructor will soon wrap up the course."
-
-If you finished early and want an extra challenge here are your extra tasks:
-
-- Factory reset your device.
-- Create an activation code in CH.
-- Register the device to Control Hub as a RoomOS device.
-- Test Remote Access from Local Device Controls.
-- Open a whiteboard and play around with mouse and keyboard controls. You can write a message about the training if you want or do a drawing, or just play around with Remote Access.
-- Now do the same from Control Hub, and verify the differences.
-
-
+Our last scenario is [Scenario 6 - RoomOS onboarding](./roomOSOnBoardingFromCH.md).

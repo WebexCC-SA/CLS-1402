@@ -56,6 +56,7 @@ Here is a list of scenarios we will go through on this lab:
 - #### [Scenario 3 - Customizations](./scenarios/customizationsScenario.md)
 - #### [Scenario 4 - Call](./scenarios/callScenario.md)
 - #### [Scenario 5 - MTR onboarding](./scenarios/MTROnBoardingFromCH.md)
+- #### [Scenario 6 - RoomOS onboarding:](.scenarios/RoomOSOnBoardingFromCH.md)
 
 ## Let’s get started
 
