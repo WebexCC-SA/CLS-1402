@@ -11,7 +11,7 @@ In this scenario you are an integrator and you have deployed a customization wit
 As an integrator you wanna go to the room and test your customizations to be sure it works and is ready for customers to use.
 
 By clicking this button on the home screen (you might need to swipe to the next page of home screen on the device to find it):
-![HalkwakeButton](./../assets/HalfwakeButton.png){ width="500" }
+![WorkspaceDesignerButton](./../assets/WorkspaceDesignerButton.png){ width="500" }
 
 !!! important "Before you start!"
     You will verify that the button Workspace Designer is not working.

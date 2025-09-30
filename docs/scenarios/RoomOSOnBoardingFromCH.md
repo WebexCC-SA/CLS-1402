@@ -60,4 +60,6 @@ Now that you have the activation code you can input that on the device manually.
 
 If you manage to go through all the steps you have finished our training, well done! 
 
-??? Note "You have finished the training! The instructor will soon wrap up the course soon."
+During this scenario we still needed to be in the room to type the activation code on the device. In room presence was still needed. Wait for the instructor to finish the course to hear some new on that topic. 
+
+??? Note "You have finished the training! The instructor will soon wrap up the course."
