@@ -54,4 +54,4 @@ xCommand Audio Volume Decrease/Increase
 These are the available options for controlling the call on a device without Remote Access in this scenario. Using the Call tab on Local Device Controls is the best available option for now.
 
 
-Let’s move on to our next scenario, where we will not use the devices in our lab. The instructor will present [Scenario 5 - MTR onboarding](./scenarios/MTROnBoardingFromCH.md).
+Let’s move on to our next scenario, where we will not use the devices in our lab. The instructor will go over scenario 5 with you. You can continue on Scenario 6.
