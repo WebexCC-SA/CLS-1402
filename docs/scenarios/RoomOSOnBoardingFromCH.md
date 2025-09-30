@@ -3,6 +3,7 @@
 In this scenario you will be an admin that wants to register a RoomOS device to our org so we can use remote access for future troubleshooting.
 
 Here is the overview of what you need to do in this scenario:
+
 - Factory reset your device.
 - Create an activation code in CH.
 - Register the device to Control Hub as a RoomOS device.
