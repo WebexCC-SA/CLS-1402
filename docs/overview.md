@@ -2,28 +2,28 @@
 
 This lab introduces Remote Access and related features to help you troubleshoot and support RoomOS devices efficiently. You'll learn how to manage devices across distributed and scaled deployments for a seamless support experience.
 
-This course is designed for Cisco partners, Integrators, and administrators working with RoomOS and MTR video devices.
+This course is designed for Cisco partners, integrators, and administrators working with RoomOS and MTR video devices.
 
 Before we dive in, here are a few important notes.
 
 ## Disclaimer
 
-Although the lab design and configuration examples could be used as a reference, for design related questions please contact your representative at Cisco, or a Cisco partner.
+Although the lab design and configuration examples can be used as a reference, please contact your Cisco representative or a Cisco partner for design-related questions.
 The official guidelines and documentation for the feature can be found here: 
 
 [Remote access to Board, Desk, and Room Series devices](https://help.webex.com/en-us/article/gge81eb/Remote-access-to-Board,-Desk,-and-Room-Series-devices).
 
 ## Learning Goals
 
-In this course we will learn how to:
+In this course you will learn how to:
 
 - Use and leverage Remote Access
 - Configure and support RoomOS and MTR devices with Remote Access
 - Reduce in-room presence during support
 - Visually verify issues remotely
-- Fix issues remotely
+- Resolve issues remotely
 - Verify customizations remotely
-- Manage the limitations of Remote Access and how to bridge the gap
+- Mitigate the limitations of Remote Access and how to bridge the gap
 
 
 
@@ -32,7 +32,7 @@ In this course we will learn how to:
 
 In this course we will use Control Hub to remotely access devices.
 
-To log into Control Hub navigate to [Control Hub](https://admin.webex.com) and use the email and password designated for you provided by the instructor.
+To log into Control Hub go to [Control Hub](https://admin.webex.com) and sign in with the email and password provided to you by the instructor.
 
 ## Guides
 
@@ -48,7 +48,7 @@ Here is a list of guides you can follow throughout the lab:
 
 ## Scenarios
 
-Here is a list of scenarios we will go through on this lab:
+Here is a list of scenarios we will cover in this lab:
 
 - #### [Hello Remote Access](./scenarios/helloRemoteAccess.md)
 - #### [Scenario 1 - Language](./scenarios/languageScenario.md)
@@ -60,4 +60,4 @@ Here is a list of scenarios we will go through on this lab:
 
 ## Let’s get started
 
-If you are ready let's begin with [Hello Remote Access](./scenarios/helloRemoteAccess.md).
+If you're ready, let's begin with [Hello Remote Access](./scenarios/helloRemoteAccess.md).
